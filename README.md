@@ -55,10 +55,3 @@ pip install pandas matplotlib notebook
 * Use interactive plots with **Plotly**
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
-```
-```
