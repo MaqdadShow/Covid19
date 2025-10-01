@@ -55,3 +55,4 @@ pip install pandas matplotlib notebook
 * Use interactive plots with **Plotly**
 
 ---
+<img width="1781" height="624" alt="image" src="https://github.com/user-attachments/assets/2299473d-044c-4209-9687-8f868010d744" />
