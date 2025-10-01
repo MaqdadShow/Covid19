@@ -1,2 +1,27 @@
 # Covid19
-A simple Jupyter Notebook for visualizing COVID-19 data. It loads data from covid_data.csv using pandas and creates a styled matplotlib plot to show daily deceased counts over time. The notebook demonstrates basic data loading and visualization with Python, making it a starting point for exploring or expanding COVID-19 data analysis.
+COVID-19 Data Visualization
+
+This repository contains a simple Jupyter Notebook for exploring and visualizing COVID-19 data. The notebook demonstrates how to:
+
+Load COVID-19 datasets using pandas
+Explore raw data in tabular form
+Visualize daily reported deaths using matplotlib with customized styling
+Features
+Reads data from covid_data.csv
+Displays the dataset directly in the notebook
+Generates a large-format plot with:
+Black background
+Grid lines for readability
+Date labels on the x-axis
+Daily deceased counts on the y-axis
+Requirements
+Python 3.x
+pandas
+matplotlib
+Jupyter Notebook
+Usage
+Place your COVID-19 dataset as covid_data.csv in the repository root.
+Open the notebook Covid19.ipynb in Jupyter.
+Run all cells to load the data and generate the visualization.
+
+This project is intended as a starting point for simple data visualization with Python and Jupyter. You can expand it by adding more plots, cleaning the dataset, or performing further analysis.
